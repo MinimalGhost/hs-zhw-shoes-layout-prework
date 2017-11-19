@@ -323,6 +323,7 @@ footer {
 }
 
 #ladybug {
+	display: block;
 	width: 30%;
 }
 
