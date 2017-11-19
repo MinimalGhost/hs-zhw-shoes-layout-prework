@@ -323,16 +323,16 @@ footer {
 }
 
 #ladybug section {
-	display: inline-block;
+	display: inline;
 	width: 300px;
 }
 
 #skate section {
-	display: inline-block;
+	display: inline;
 	width: 300px;
 }
 
 #heel section {
-	display: inline-block;
+	display: inline;
 	width: 300px;
 }
