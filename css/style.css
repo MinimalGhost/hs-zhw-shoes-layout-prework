@@ -323,13 +323,13 @@ footer {
 }
 
 #ladybug section {
-	display: table;
+	vertical-align: top;
 }
 
 #skate section {
-
+vertical-align: top;
 }
 
 #heel section {
-
+vertical-align: top;
 }
