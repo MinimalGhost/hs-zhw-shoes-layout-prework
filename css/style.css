@@ -323,11 +323,11 @@ footer {
 }
 
 #ladybug section {
-
+	float: left;
 }
 
 #skate section {
-
+	float: right;
 }
 
 #heel section {
