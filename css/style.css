@@ -320,6 +320,7 @@ footer {
 
 .deals {
 	display: table;
+	width: 100%;
 }
 
 #ladybug section {
