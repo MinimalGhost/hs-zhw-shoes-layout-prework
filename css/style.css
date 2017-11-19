@@ -307,3 +307,7 @@ footer {
 #featured {
 	float: right;
 }
+
+#archive {
+	float: left;
+}
