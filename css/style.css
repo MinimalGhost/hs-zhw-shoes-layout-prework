@@ -330,6 +330,10 @@ footer {
 }
 
 #foot {
+	margin: 0.25em auto;
 	vertical-align: top;
+	border: 1px solid;
 	display: inline-block;
+	width: 33.3333%;
+	float: left;
 }
