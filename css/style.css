@@ -323,9 +323,9 @@ footer {
 }
 
 #skate {
-
+	display: inline-block;
 }
 
 #heel {
-
+	display: inline-block;
 }
