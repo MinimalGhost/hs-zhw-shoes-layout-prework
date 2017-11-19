@@ -333,6 +333,6 @@ footer {
 }
 
 #heel {
-	display: block;
+	display: inline;
 	width: 30%;
 }
