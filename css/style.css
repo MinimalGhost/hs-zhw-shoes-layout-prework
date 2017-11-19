@@ -323,12 +323,12 @@ footer {
 }
 
 #ladybug {
-	display: block;
+	display: inline;
 	width: 30%;
 }
 
 #skate {
-	display: block;
+	display: inline;
 	width: 30%;
 }
 
