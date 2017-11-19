@@ -319,11 +319,16 @@ footer {
 }
 
 .deals {
-	display: table;
+	margin: 0.25em auto;
+	vertical-align: top;
+	border: 1px solid;
+	display: inline-block;
+	width: 33.3333%;
+	float: left;
 
 }
 
-#ladybug section {
+/*#ladybug section {
 	vertical-align: top;
 	display: table-cell;
 	width: 30px;
@@ -339,4 +344,4 @@ footer {
 	vertical-align: top;
 	display: table-cell;
 	width: 30px;
-}
+}*/
