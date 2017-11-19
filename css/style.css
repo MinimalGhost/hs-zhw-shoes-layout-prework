@@ -318,6 +318,10 @@ footer {
 	float: right;
 }
 
+.deals {
+	display: inline
+}
+
 #ladybug section {
 	display: inline-block;
 }
