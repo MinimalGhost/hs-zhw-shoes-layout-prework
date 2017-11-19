@@ -328,9 +328,11 @@ footer {
 }
 
 #skate {
+	display: block;
 	width: 30%;
 }
 
 #heel {
+	display: block;
 	width: 30%;
 }
