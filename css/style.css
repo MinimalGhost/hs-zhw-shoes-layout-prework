@@ -319,11 +319,11 @@ footer {
 }
 
 .deals {
-	margin: 0.45em 1%;
+	margin: 0.45em auto;
 	vertical-align: top;
 	border: 1px solid;
 	display: inline-block;
-	width: 30%;
+	width: 30.3333%;
 	float: left;
 
 }
