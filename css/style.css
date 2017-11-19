@@ -325,14 +325,17 @@ footer {
 #ladybug section {
 	vertical-align: top;
 	display: table-cell;
+	width: 30%;
 }
 
 #skate section {
 	vertical-align: top;
 	display: table-cell;
+	width: 30%;
 }
 
 #heel section {
 	vertical-align: top;
 	display: table-cell;
+	width: 30%;
 }
