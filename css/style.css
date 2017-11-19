@@ -319,17 +319,20 @@ footer {
 }
 
 .deals {
-	display: inline
+	display: inline;
 }
 
 #ladybug section {
 	display: inline-block;
+	width: 300px;
 }
 
 #skate {
 	display: inline-block;
+	width: 300px;
 }
 
 #heel {
 	display: inline-block;
+	width: 300px;
 }
