@@ -305,7 +305,7 @@ footer {
 /* code examples copyright Jonathan Grover 2012 */
 
 #featured {
-	float: right;
+	float: left;
 }
 
 #archive {
