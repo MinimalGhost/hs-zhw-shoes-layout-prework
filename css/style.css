@@ -320,5 +320,8 @@ footer {
 
 .deals {
 	display: inline;
+}
+
+.deals section {
 	width: 33%;
 }
