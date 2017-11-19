@@ -317,3 +317,7 @@ footer {
 	width: 35%;
 	float: right;
 }
+
+.deals {
+	display: inline;
+}
